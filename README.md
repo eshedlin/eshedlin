@@ -8,4 +8,4 @@ Epidemiologist moving into data analysis. I work with open health data in SQL, P
 ### Currently
 A data analyst bootcamp, built in public: [data-analyst-bootcamp](https://github.com/eshedlin/data-analyst-bootcamp) (see [how I work with AI](https://github.com/eshedlin/data-analyst-bootcamp#how-i-work-with-ai)).
 
-Hebrew and English.
+Hebrew and English · [LinkedIn](https://www.linkedin.com/in/eshedlin/)
